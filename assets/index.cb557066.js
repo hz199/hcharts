@@ -1,0 +1,1 @@
+import{c as a,w as s,b as e,e as o,o as t}from"./vendor.8cb520e6.js";const c={name:"Start"},d=s();e("data-v-6731f412");const r={class:"home"};o();const n=d(((s,e,o,c,d,n)=>(t(),a("div",r))));c.render=n,c.__scopeId="data-v-6731f412";export default c;
