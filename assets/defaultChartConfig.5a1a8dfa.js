@@ -1,0 +1,1 @@
+const t=(e=!0)=>({show:e,icon:"circle",textStyle:{fontSize:12,color:"#c8c8c8"}}),r=(e="axis")=>({trigger:e,axisPointer:{label:{show:!0,backgroundColor:"#fff",color:"#556677",borderColor:"rgba(0,0,0,0)",shadowOffsetY:0},lineStyle:{width:1}},padding:[10,10]});export{t as a,r as d};
