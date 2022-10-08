@@ -1,4 +1,4 @@
-import{u as c,H as n}from"./index.4ef32864.js";import{i}from"./install.69ae8a5f.js";import{_ as l,r as o,o as m,c as p,a as s}from"./index.8e07b5ee.js";c(i);const h=`
+import{u as c,H as n}from"./index.5524c212.js";import{i}from"./install.9be71b46.js";import{_ as l,r as o,o as m,c as p,a as s}from"./index.1af21936.js";c(i);const h=`
 <template>
   <HChart :options="options" :events="chartEvents"></HChart>
 </template>
